@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>0260E987-9474-4DE6-B45A-AB93B6126FFD</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>DrawExamples</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>2B64DFD2FDFEE2DAE2A06D4B21BB349293E833EC</key>
 		<string>https://github.com/Howlinmoon/DrawExamples.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DrawExamples.xcodeproj/project.xcworkspace</string>
+	<string>DrawExamples.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2B64DFD2FDFEE2DAE2A06D4B21BB349293E833EC</key>
