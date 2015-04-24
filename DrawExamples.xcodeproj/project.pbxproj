@@ -14,6 +14,9 @@
 		96E854B31AE8051100647D2A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96E854B11AE8051100647D2A /* LaunchScreen.xib */; };
 		96E854BF1AE8051100647D2A /* DrawExamplesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E854BE1AE8051100647D2A /* DrawExamplesTests.swift */; };
 		96E854C91AE8061200647D2A /* DrawExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E854C81AE8061200647D2A /* DrawExamples.swift */; };
+		96F836AA1AEAA22A00CE466D /* birthdayPicture.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96F836A81AEAA22A00CE466D /* birthdayPicture.jpg */; };
+		96F836AC1AEAA2E700CE466D /* lego_me_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 96F836AB1AEAA2E700CE466D /* lego_me_small.png */; };
+		96F836AE1AEAA30A00CE466D /* Rocket.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96F836AD1AEAA30A00CE466D /* Rocket.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +41,9 @@
 		96E854BD1AE8051100647D2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96E854BE1AE8051100647D2A /* DrawExamplesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawExamplesTests.swift; sourceTree = "<group>"; };
 		96E854C81AE8061200647D2A /* DrawExamples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawExamples.swift; sourceTree = SOURCE_ROOT; };
+		96F836A81AEAA22A00CE466D /* birthdayPicture.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = birthdayPicture.jpg; sourceTree = "<group>"; };
+		96F836AB1AEAA2E700CE466D /* lego_me_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lego_me_small.png; sourceTree = "<group>"; };
+		96F836AD1AEAA30A00CE466D /* Rocket.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rocket.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +99,9 @@
 		96E854A61AE8051100647D2A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96F836AB1AEAA2E700CE466D /* lego_me_small.png */,
+				96F836AD1AEAA30A00CE466D /* Rocket.jpg */,
+				96F836A81AEAA22A00CE466D /* birthdayPicture.jpg */,
 				96E854A71AE8051100647D2A /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -198,6 +207,9 @@
 				96E854AE1AE8051100647D2A /* Main.storyboard in Resources */,
 				96E854B31AE8051100647D2A /* LaunchScreen.xib in Resources */,
 				96E854B01AE8051100647D2A /* Images.xcassets in Resources */,
+				96F836AE1AEAA30A00CE466D /* Rocket.jpg in Resources */,
+				96F836AC1AEAA2E700CE466D /* lego_me_small.png in Resources */,
+				96F836AA1AEAA22A00CE466D /* birthdayPicture.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +427,7 @@
 				96E854C41AE8051100647D2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		96E854C51AE8051100647D2A /* Build configuration list for PBXNativeTarget "DrawExamplesTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +436,7 @@
 				96E854C71AE8051100647D2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
